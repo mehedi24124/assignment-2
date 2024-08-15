@@ -11,7 +11,8 @@
   font-family: "Miama", sans-serif;
   font-style: italic;
   font-optical-sizing: auto;
-  font-weight: 200;
+  font-weight: 500;
+  font-size: 4rem;
 }
 
 /*  shared style */
@@ -40,7 +41,7 @@
   
 }
 
-.nav-text {
+.nav-text{
   font-size: 2.5rem;
   color: #e6533c;
   font-style: italic;
@@ -400,6 +401,9 @@
 }
 .video-extra{
   margin: 45px 190px 0px 190px; 
+}
+.video-extra>iframe{
+  border-radius: 10px;
 }
 
 /* BMI calculator related styles BMI calculator related style BMI calculator related style */
