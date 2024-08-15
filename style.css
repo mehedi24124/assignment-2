@@ -621,3 +621,53 @@ ul>li{
   color: #ffffff91;
   padding-top: 20px;
 }
+
+@media screen and (min-width:993px){
+
+  /* .nav-all{
+    height: 710px;
+  } */
+  .h1-text{
+    padding-left: 10%;
+    margin: 0px;
+    /* text-align: left; */
+  }
+  .main-text{
+    font-size: 4.5rem;
+  }
+  .huge{
+    padding-bottom: 10px;
+  }
+  .join-club{
+    width: 40%;
+    padding: 3%;
+  }
+.download{
+  width: 39%;
+  padding: 4%;
+}
+.overlay{
+  width: 13%;
+  padding-left:1%;
+  font-size: .8rem;
+}
+.overlay2{
+  width: 17%;
+  height: 15%;
+  margin-left: -8%;
+  font-size: .8rem;
+  padding-top: .5%;
+}
+.box{
+  padding-right: -2px;
+}
+.video{
+  font-size: 2rem;
+  
+}
+
+
+  .pic-1{
+    padding-right: 7%;
+  }
+}
