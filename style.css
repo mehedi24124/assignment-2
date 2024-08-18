@@ -213,17 +213,19 @@
 .we-belive{
   font-size: 1rem;
 }
-.round-pic{
-   /* 40px; */
 
+/* round-section related styles */
+.round-section{
+  /* margin-top: -30px; */
+  /* padding: 0; */
+}
+.round-pic{
   margin-left: 190px;
 }
 .round-all{
   margin-right: 20px;
 }
 .roundpic{
-  /* align-items: center; */
-  /* padding-left: 50px; */
   border:1px solid transparent;
   border-radius: 50%;
   margin: 10px;
@@ -623,14 +625,10 @@ ul>li{
 }
 
 @media screen and (min-width:993px){
-
-  /* .nav-all{
-    height: 710px;
-  } */
+/* section one finish fenshed by mehedi */
   .h1-text{
     padding-left: 10%;
     margin: 0px;
-    /* text-align: left; */
   }
   .main-text{
     font-size: 4.5rem;
@@ -665,9 +663,22 @@ ul>li{
   font-size: 2rem;
   
 }
-
-
-  .pic-1{
+.pic-1{
     padding-right: 7%;
   }
+  /* section two change your habit  */
+  .round-pic{
+    margin-left:  6%;
+  }
+ .round-section{
+ margin-top: -30px;
+ display: flex;
+ padding-top: 3%;
+ justify-content: center;
+ padding-right: 90px;
+ }
+ .round-section>div{
+  gap:1%
+ }
+ /*  */
 }
