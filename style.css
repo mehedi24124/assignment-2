@@ -571,15 +571,13 @@ span{
 .footer-sec{
   display: flex;
   background-color: #24010178;
-  padding: 30px 0px 40px 190px;
-  /* text-align: center; */
+  /* padding: 30px 0px 40px 190px; */
   align-items: center;
   gap: 70px; 
 
 }
 .ness{
   padding: 0;
-  /* padding-bottom: -100px; */
   font-size: 4rem;
   margin: 0px;
   font-weight: 900;
@@ -590,7 +588,6 @@ span{
 ul>li{
   list-style: none;
   padding-top: 10px;
-  /* padding-right: 10px; */
   text-align: left;
   color: #ffffff91;
   font-size: 1rem;
@@ -642,13 +639,13 @@ ul>li{
   padding: 4%;
 }
 .overlay{
-  width: 13%;
-  padding-left:1%;
+  width: 10%;
+  padding-left:2%;
   font-size: .8rem;
 }
 .overlay2{
   width: 17%;
-  height: 15%;
+  height: 13%;
   margin-left: -8%;
   font-size: .8rem;
   padding-top: .5%;
@@ -703,11 +700,25 @@ ul>li{
   width: 100%;
 }
 /* try this tutorial related styles */
- .video-extra{
-
- }
+ 
  iframe{
   width: 100%;
   height: 480px;
  }
+ /* chart related styles */
+ .chart{
+  padding-top: 3%;
+ }
+.trainer>img{
+  width: 90%;
+  padding: 4%;
+}
+
+.footer-sec{
+  display: flex;
+  justify-content: center;
+  padding-top: 3%;
+  padding-bottom: 4%;
+}
+
 }
