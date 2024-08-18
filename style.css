@@ -42,7 +42,7 @@
 }
 
 .nav-text{
-  font-size: 3rem;
+  font-size: 2.6gitrem;
   color: #e6533c;
   font-style: italic;
   font-weight: bold;
@@ -53,6 +53,7 @@
   width: 100%;
   justify-content: space-around;
   align-items: center;
+  /* padding-top: 10px; */
 }
 
 .nav-links {
